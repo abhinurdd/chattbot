@@ -1,0 +1,68 @@
+[
+  {
+    "username": "fit_amy",
+    "full_name": "Amy Sharma",
+    "industry": "Fitness",
+    "followers": 25000,
+    "followers_last_week": 24250,
+    "new_followers_this_week": 750,
+    "audience_breakdown": {
+      "age": {"18-24": 15000, "25-34": 8000, "35-44": 2000},
+      "gender": {"female": 16000, "male": 9000},
+      "locations": {"Mumbai": 7000, "Delhi": 5000, "Other": 13000}
+    },
+    "content_performance": {
+      "Reels": {"avg_likes": 1700, "avg_comments": 110, "avg_shares": 70, "avg_saves": 60, "avg_impressions": 22000, "num_posts": 14, "sentiment": {"positive": 0.82, "neutral": 0.13, "negative": 0.05}},
+      "Posts": {"avg_likes": 800, "avg_comments": 45, "avg_shares": 10, "avg_saves": 9, "avg_impressions": 10000, "num_posts": 6, "sentiment": {"positive": 0.74, "neutral": 0.21, "negative": 0.05}},
+      "Stories": {"avg_views": 9000, "avg_replies": 15, "num_posts": 10}
+    },
+    "competitor": {
+      "username": "fit_ria",
+      "followers": 31000,
+      "avg_er": 0.071,
+      "posting_frequency": 5,
+      "top_content_type": "Reels",
+      "strategy_notes": "Uses trending audio, challenges, posts 5x/week"
+    },
+    "trending_hashtags": ["#HIIT", "#FitnessMotivation", "#ShortWorkouts", "#TrendingAudio"],
+    "top_collab": {
+      "username": "healthy_sam",
+      "engagement_overlap": 0.48,
+      "recent_content": "HIIT quick tips Reel",
+      "dm_template": "Hi Sam, noticed our audiences love HIIT Reels—45% overlap! Want to collab on a 15-sec workout?"
+    }
+  },
+  {
+    "username": "chef_raj",
+    "full_name": "Raj Mehta",
+    "industry": "Cooking",
+    "followers": 41000,
+    "followers_last_week": 40500,
+    "new_followers_this_week": 500,
+    "audience_breakdown": {
+      "age": {"18-24": 10000, "25-34": 20000, "35-44": 11000},
+      "gender": {"female": 25000, "male": 16000},
+      "locations": {"Mumbai": 12000, "Bangalore": 8000, "Other": 21000}
+    },
+    "content_performance": {
+      "Reels": {"avg_likes": 4000, "avg_comments": 180, "avg_shares": 130, "avg_saves": 110, "avg_impressions": 40000, "num_posts": 12, "sentiment": {"positive": 0.81, "neutral": 0.14, "negative": 0.05}},
+      "Posts": {"avg_likes": 2200, "avg_comments": 95, "avg_shares": 29, "avg_saves": 16, "avg_impressions": 17000, "num_posts": 10, "sentiment": {"positive": 0.77, "neutral": 0.21, "negative": 0.02}},
+      "Stories": {"avg_views": 13000, "avg_replies": 34, "num_posts": 18}
+    },
+    "competitor": {
+      "username": "thehomecook",
+      "followers": 51000,
+      "avg_er": 0.084,
+      "posting_frequency": 6,
+      "top_content_type": "Reels",
+      "strategy_notes": "6 posts/week, always uses trending food sounds"
+    },
+    "trending_hashtags": ["#Homemade", "#QuickRecipes", "#KitchenHacks", "#ViralSnacks"],
+    "top_collab": {
+      "username": "flavour_diaries",
+      "engagement_overlap": 0.51,
+      "recent_content": "Viral 2-ingredient dessert",
+      "dm_template": "Hi Flavour Diaries, our recipes and audiences overlap a lot (~50%). Want to collab on a trending snack video?"
+    }
+  }
+]
